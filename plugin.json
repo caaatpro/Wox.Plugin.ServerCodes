@@ -1,0 +1,12 @@
+{
+    "ID":"A26FE0C79D6C5A6WE26FE0C79D6C5A6E",
+    "ActionKeyword":"*",
+    "Name":"ServerCodes",
+    "Description":"",
+    "Author":"CaaatPro",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"",
+    "ExecuteFileName":"Wox.Plugin.ServerCodes.dll",
+    "IcoPath":"icon.png"
+}
